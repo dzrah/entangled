@@ -10,7 +10,7 @@
 
 	const MAPBOX_TOKEN = import.meta.env.VITE_MAPBOX_ACCESS_TOKEN;
 
-	// User data matching the image style
+	// User data matching the image style - test
 	const users = [
 		{ name: 'City Trends', avatar: '👤', coords: [-73.9857, 40.7484], color: '#6366f1' },
 		{ name: 'Alex Miller', avatar: '👨‍💼', coords: [-0.1276, 51.5074], color: '#8b5cf6' },
